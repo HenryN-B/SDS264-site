@@ -1,0 +1,41 @@
+---
+title: "Apple Tier List"
+format: html
+---
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en-us">
+
+    <head>
+        <title>Apple Tier List</title>
+        <link rel="stylesheet" href="static/css/styles.css">
+    </head>
+    <body>
+
+    <div class = "title-text-box">
+        <h1 class = "title-text"> My Rating of different apples </h1>
+    </div>
+
+    <div class = "into-text-box">
+        <p class = "into-text">Hello and welcome to my tier list of different verities of apples. 
+        While I may not be that knowledgeable about apples i do have a lot of op  </p>
+    </div>
+
+    <div>
+        <div class = "tier-list-box" >
+            <p class = "tier-s">S:</p> <img src="static/images/honey_crsip.jpeg">
+        </div>
+
+        <div class = "tier-list-box">
+            <p>A:</p>
+        </div>
+
+        <div class = "tier-list-box" >
+            <p>B:</p>
+        </div>
+    </div>
+
+    </body>
+</html>
+```

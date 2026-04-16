@@ -1,11 +1,5 @@
 ---
-title: "mysite"
+title: "Henry Norton-Bower"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is my really cool website. It even has a apple tier list (wip).
